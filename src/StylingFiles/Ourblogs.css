@@ -1,0 +1,50 @@
+.li-1{
+    margin-left: 20rem;
+}
+.li-2{
+    list-style-type: none;
+}
+.a-1{
+    position: relative;
+    left: 60px;
+    bottom: 47px;
+}
+#backgroundcol{
+    background-color: rgb(14, 15, 16);
+}
+.blog{
+    margin-right: 55px;
+}
+.quick{
+    position: relative;
+    right: 70px;
+}
+.imgsocial{
+    height: 120px;
+    width: 160px;
+}
+#next{
+    position: absolute;
+    bottom: 55%;
+}
+.zoom{
+    width: 16%;
+}
+@media (max-width:1000px)
+{
+    .nav-8{
+        width: 78rem;
+    }
+}
+@media (max-width:650px)
+{
+    .nav-8{
+        width: 32rem;
+    }
+}
+@media (max-width:250px)
+{
+    .nav-8{
+        width: 40rem;
+    }
+}

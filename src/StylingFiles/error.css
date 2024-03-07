@@ -1,0 +1,13 @@
+.img{
+    width: 70%;
+    height: 60%;
+    position: relative;
+    margin-left: 5.2%;
+}
+.img-1{
+    position: relative;
+    right: 2em;
+    width: 20%;
+    height: 10%;
+    cursor: pointer;
+}

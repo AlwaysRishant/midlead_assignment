@@ -1,0 +1,36 @@
+.background-container {
+    background-image: url('../Images/map.png');
+    background-size: cover;
+    height: 45em;
+    width: 60em;
+  }
+.eventclick1
+{
+    cursor: pointer;
+    background-color: beige;
+}
+.head{
+    margin-left: 13em;
+}
+.img-2{
+    margin-left: 10em;
+}
+@media (max-width:580px)
+{
+    .img-2{
+        margin-left: 8em;
+    }
+    .head{
+        margin-left: 3em;
+        font-size:xx-large;
+    }
+    .cardcol{
+        width: 100%;
+        height: 15em;
+        margin-left: 1em;
+    }
+    .background-container {
+        width: 22em;
+        height: 102em;
+    }
+}
