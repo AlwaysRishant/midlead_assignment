@@ -39,12 +39,12 @@
 @media (max-width:650px)
 {
     .nav-8{
-        width: 32rem;
+        width: 35rem;
     }
 }
-@media (max-width:250px)
+@media (max-width:320px)
 {
     .nav-8{
-        width: 40rem;
+        width: 22rem;
     }
 }
